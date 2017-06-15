@@ -1,6 +1,6 @@
 # PureData
 
-Download the repository to view the guts of each program
+Assorted Pure Data Projects:
 
 
 EightVoiceSampler-- Open Sampler.pd to play back the loaded sample with eight voices of polyphony
