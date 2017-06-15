@@ -1,0 +1,12 @@
+#N canvas 471 432 450 300 10;
+#N canvas 0 22 450 278 (subpatch) 0;
+#X array durations 100 float 3;
+#A 0 0 4489 24747 7350 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0;
+#X coords 0 1 100 -1 200 140 1 0 0;
+#X restore 222 87 graph;
+#X obj 19 42 Loader kick 1;
+#X obj 19 66 Loader snare 2;
+#X obj 19 90 Loader Hat 3;
