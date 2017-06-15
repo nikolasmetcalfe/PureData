@@ -7,4 +7,4 @@ EightVoiceSampler-- Open Sampler.pd to play back the loaded sample with eight vo
 
 ThreeVoiceSequencer-- Open Sequencer.pd to program eight step snare, kick, and hat sequencer
 
-Minimoog.pd-- Three oscillator synthesizer loosely based on the hardware restrictions of the minimoog
+Minimoog.pd-- Three oscillator synthesizer loosely based on the hardware restrictions of the Minimoog
